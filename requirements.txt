@@ -1,0 +1,6 @@
+assemblyai
+platformdirs
+python-dotenv
+pyaudio
+textual
+rich
