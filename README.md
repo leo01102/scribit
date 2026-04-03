@@ -4,7 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 
-![Scribit Demo](assets/demo.mp4)
+<video src="assets/demo.mp4" controls="controls" title="Scribit Demo" style="max-width: 100%;">
+</video>
 
 Scribit is a high-performance real-time audio transcription engine with a developer-focused terminal interface. Powered by AssemblyAI's Streaming API and the Textual framework, it provides an elegant way to capture and log speech instantly.
 
